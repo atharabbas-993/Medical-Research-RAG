@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchain-huggingface
+langchain-groq
+langchain-cohere
+langchain-classic
+chromadb
+sentence-transformers
+rank-bm25
+cohere
+deepeval
+python-dotenv
+requests
